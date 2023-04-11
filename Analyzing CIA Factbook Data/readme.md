@@ -2,4 +2,4 @@
 
 It provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities. 
 
-The main goal of this project was to familiarize with the beginner SQL concepts, summary statistics and subqueries.
+The main goal of this project was to familiarize with the beginner SQL concepts, aggregate functions and subqueries.
