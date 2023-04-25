@@ -1,5 +1,3 @@
-Sure! Here's an example of a good README file for a GitHub repository that contains SQL projects:
-
 # SQL Projects Repository
 
 This repository contains a collection of SQL projects that I have completed, ranging from basic SQL queries to more complex data analysis tasks.
